@@ -6,6 +6,8 @@ ________________________________________________________________________________
   <div>
   <a href="https://github.com/natalialnb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalialnb&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy"/>
+    
+      Meu nome é Natália e estou migrando da área financeira para área de dados, criei meu GitHub para você poder dar uma olhadinha nos meus projetos, mas principalmente para mim e pessoas como eu, que sempre dão uma espiadinha por aí, para se inspirar e aprender mais um pouquinho! 😉
     </div>
     
  Linguagens e ferramentas em que já me aventurei:
@@ -23,4 +25,4 @@ ________________________________________________________________________________
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
     
-  Meu nome é Natália e estou migrando da área financeira para área de dados, criei meu GitHub para você poder dar uma olhadinha nos meus projetos, mas principalmente para mim e pessoas como eu, que sempre dão uma espiadinha por aí, para se inspirar e aprender mais um pouquinho! 
+
