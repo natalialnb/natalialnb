@@ -1,14 +1,13 @@
 ### Hi there! 👋
 ______________________________________________________________________________________________________________________
 
-
+Meu nome é Natália e estou migrando da área financeira para área de dados, criei meu GitHub para você poder dar uma olhadinha nos meus projetos, mas principalmente para mim e pessoas como eu, que sempre dão uma espiadinha por aí, para se inspirar e aprender mais um pouquinho! 😉
 
   <div>
   <a href="https://github.com/natalialnb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalialnb&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy"/>
      </div>
-      Meu nome é Natália e estou migrando da área financeira para área de dados, criei meu GitHub para você poder dar uma olhadinha nos meus projetos, mas principalmente para mim e pessoas como eu, que sempre dão uma espiadinha por aí, para se inspirar e aprender mais um pouquinho! 😉
-  
+
     
  Linguagens e ferramentas em que já me aventurei:
   <div style="display: inline_block"><br>
