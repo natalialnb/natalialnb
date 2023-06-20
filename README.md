@@ -1,7 +1,8 @@
 ### Hi there! 👋
 ______________________________________________________________________________________________________________________
 
-Meu nome é Natália e estou migrando da área financeira para área de dados, criei meu GitHub para você poder dar uma olhadinha nos meus projetos, mas principalmente para mim e pessoas como eu, que sempre dão uma espiadinha por aí, para se inspirar e aprender mais um pouquinho! 😉
+Meu nome é Natália e estou migrando da área financeira para área de dados. 
+Estou terminando um BootCamp e criei meu GitHub para você poder dar uma olhadinha nos meus projetos e eu poder dar uma espiadinha e aprender mais um pouquinhopor aí!😉
 
   <div>
   <a href="https://github.com/natalialnb">
@@ -20,8 +21,8 @@ Meu nome é Natália e estou migrando da área financeira para área de dados, c
   
   <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:na_nahas@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href= "mailto:na_nahas@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/natalia-berti-129b20109/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
     
 
