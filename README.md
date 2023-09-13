@@ -4,7 +4,7 @@ ________________________________________________________________________________
 Meu nome é Natália e estou migrando da área financeira para área de dados. 
 Estou terminando um BootCamp e criei meu GitHub para você poder dar uma olhadinha nos meus projetos e eu poder dar uma espiadinha e aprender mais um pouquinhopor aí!😉
 <div>Meu portfólio pode ser encontrado em: https://sites.google.com/view/portfolionatlianberti/in%C3%ADcio<div>
-
+  <br>
   <div>
   <a href="https://github.com/natalialnb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalialnb&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy"/>
