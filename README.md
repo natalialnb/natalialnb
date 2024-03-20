@@ -30,9 +30,9 @@ Para acompanhar a crescente importância da análise de dados em todos os setore
 
 -> 📝 Compartilho minha experiência em alguns artigos no  [medium]
 
--> 🔎 Pode encontar meu portifólio em [Site] https://sites.google.com/view/portfolionatlianberti/in%C3%ADcio
+-> 🔎 Pode encontar meu portifólio em [Site] (https://sites.google.com/view/portfolionatlianberti/in%C3%ADcio)
 
--> 💬 You can also connect with me at [LinkedIn]([https://www.linkedin.com/in/natalia-berti-129b20109//])
+-> 💬 Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/natalia-berti-129b20109//)
 
 
 
