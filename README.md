@@ -32,7 +32,7 @@ Para acompanhar a crescente importância da análise de dados em todos os setore
 
 -> 🔎 Pode encontar meu portifólio em [Site] https://sites.google.com/view/portfolionatlianberti/in%C3%ADcio
 
--> 💬 You can also connect with me at [LinkedIn]([linkedin.com/in/natalia-berti-129b20109](https://www.linkedin.com/in/natalia-berti-129b20109/))
+-> 💬 You can also connect with me at [LinkedIn]([https://www.linkedin.com/in/natalia-berti-129b20109//])
 
 
 
