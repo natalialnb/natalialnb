@@ -1,4 +1,11 @@
-### Hi there! 👋
+---
+
+<h1 align="center">Hi there! Me chamo Natália</h1>
+<h3 align="center">Analista de dados júnior, do Brasil em Portugal! </h3>
+
+
+<div align="center" > Python - SQL - Power BI - Data Visualization - ETL - Estatistica </div>
+
 ______________________________________________________________________________________________________________________
 
 Meu nome é Natália e estou migrando da área financeira para área de dados. 
