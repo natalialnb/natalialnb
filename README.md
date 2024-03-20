@@ -1,7 +1,8 @@
 ---
 
-<h1 align="center">Hi there! Me chamo Natália</h1>
-<h3 align="center">Analista de dados júnior, do Brasil em Portugal! </h3>
+<h1 align="center">Natália Berti</h1>
+
+<h3 align="center">Analista de dados júnior </h3>
 
 
 <div align="center" > Python - SQL - Power BI - Data Visualization - ETL - Estatistica </div>
