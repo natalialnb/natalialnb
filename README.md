@@ -40,11 +40,18 @@ Para acompanhar a crescente importância da análise de dados em todos os setore
 <h1 align="left">🚀 Meus projetos</h1>
 
 <div align="justify"></a> Bootcamp TripleTen – Programa Data Analyst</h2></div>
-<div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
-+ [Project 12 - Churn de clientes](https://github.com/natalialnb/Projeto_12): 
++ [Projeto 12 - Churn de clientes](https://github.com/natalialnb/Projeto_12): 
 
-+ [Project ](): 
++ [Projeto 10 - Análise do Comportamento de usuários em um aplicativo de vendas](https://github.com/natalialnb/Projeto_10):
+  
++ [Projeto 09 - Análise para identificar as condições de mercado mais favoráveis para a abertura de uma cafeteria](https://github.com/natalialnb/Projeto_09):
 
 
+<div align="justify"></a> Outros projetos </h2></div>
 
++ [Projeto - Ciência de Dados - Previsão de vendas](https://github.com/natalialnb/previsao_vendas/tree/main):
+
++ [Projeto - Score de crédito de clientes](https://github.com/natalialnb/projeto_ia):
+
++ 
