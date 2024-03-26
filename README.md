@@ -42,7 +42,7 @@ Para acompanhar a crescente importância da análise de dados em todos os setore
 <div align="justify"></a> Bootcamp TripleTen – Programa Data Analyst</h2></div>
 <div align="justify">As a student, I was responsible for the development of the following projects:</div>
 
-+ [Project 12 - Churn de clientes]([link do projeto](https://github.com/natalialnb/Projeto_12)https://github.com/natalialnb/Projeto_12): 
++ [Project 12 - Churn de clientes]([link do projeto](https://github.com/natalialnb/Projeto_12): 
 
 + [Project ](): 
 
