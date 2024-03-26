@@ -41,7 +41,7 @@ Para acompanhar a crescente importância da análise de dados em todos os setore
 
 <div align="justify"></a> Bootcamp TripleTen – Programa Data Analyst</h2></div>
 
-+ [Projeto 12 - Churn de clientes](https://github.com/natalialnb/Churn_Clientes/blob/main/README.md): 
++ [Projeto 12 - Churn de clientes](https://github.com/natalialnb/Churn_Clientes/tree/main): 
 
 + [Projeto 10 - Análise do Comportamento de usuários em um aplicativo de vendas](https://github.com/natalialnb/Projeto_10):
   
