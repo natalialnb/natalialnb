@@ -46,6 +46,8 @@ Para acompanhar a crescente importância da análise de dados em todos os setore
 + [Projeto 10 - Análise do Comportamento de usuários em um aplicativo de vendas](https://github.com/natalialnb/Projeto_10):
   
 + [Projeto 09 - Análise para identificar as condições de mercado mais favoráveis para a abertura de uma cafeteria](https://github.com/natalialnb/Projeto_09):
+  
++ [Projeto 08 - Teste A/B](https://github.com/natalialnb/Teste-A-B/blob/main/Teste%20AB%20-%20Projeto%2008.ipynb):
 
 
 <div align="justify"></a> Outros projetos </h2></div>
