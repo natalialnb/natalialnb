@@ -29,9 +29,9 @@ Para acompanhar a crescente importância da análise de dados em todos os setore
 
 <h1 align="left">🎯 Entre em contato ou veja mais em:</h1>
 
--> 📝 Compartilho minha experiência em alguns artigos no  [medium]
+-> 📝 Compartilho minha experiência em alguns artigos no [Medium](https://medium.com/@na_nahas)
 
--> 🔎 Pode encontar meu portifólio no [Site](https://sites.google.com/view/portfolionatlianberti/in%C3%ADcio)
+-> 🔎 Pode encontar meu portifólio no [Site](https://sites.google.com/view/portflio-natliaberti/p%C3%A1gina-inicial)
 
 -> 💬 Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/natalia-berti-129b20109//)
 
