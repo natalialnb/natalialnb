@@ -56,4 +56,9 @@ Para acompanhar a crescente importância da análise de dados em todos os setore
 
 + [Projeto - Score de crédito de clientes](https://github.com/natalialnb/projeto_ia):
 
-+ 
+
+<div align="justify"></a> Curso Preditiva </h2></div>
+
++ [Hands-On: Regressão Linear Múltipla no Python]((https://github.com/natalialnb/Regressao_linear/blob/main/Hands-on_Reg.linear.multipla.ipynb):
+
+
