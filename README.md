@@ -57,6 +57,8 @@ Para acompanhar a crescente importância da análise de dados em todos os setore
 + [Projeto - Score de crédito de clientes](https://github.com/natalialnb/projeto_ia):
 
 + [Projeto - Análise IMDB - MySQL](https://github.com/natalialnb/IMDB_SQL):
+  
++ [Projeto - Análise IMDB - Python](https://github.com/natalialnb/Python_IMDB):
 
 
 <div align="justify"></a> Curso Preditiva </h2></div>
