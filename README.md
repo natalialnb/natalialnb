@@ -24,7 +24,7 @@ Para acompanhar a crescente importância da análise de dados em todos os setore
   </p>
 </div>
 
-❤️ Faço parte da Comunidade MED Mulheres em Dados - 🇧🇷 
+❤️ Faço parte da Comunidade MED Mulheres em Dados - &#127463;&#127479; 
 
 ---
 
