@@ -24,7 +24,10 @@ Para acompanhar a crescente importância da análise de dados em todos os setore
   </p>
 </div>
 
-❤️ Faço parte da Comunidade MED Mulheres em Dados 🇧🇷
+Indicações:
+❤️ Comunidade MED Mulheres em Dados - BR
+❤️ Comunidade Geek Girls - PT
+
 ---
 
 <h1 align="left">🎯 Entre em contato ou veja mais em:</h1>
