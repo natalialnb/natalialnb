@@ -24,7 +24,8 @@ Para acompanhar a crescente importância da análise de dados em todos os setore
   </p>
 </div>
 
-❤️ Faço parte da Comunidade MED Mulheres em Dados - &#127463;&#127479; 
+❤️ Faço parte da Comunidade MED Mulheres em Dados - ![Brazil Flag](https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg)
+ 
 
 ---
 
