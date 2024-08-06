@@ -22,12 +22,12 @@ Para acompanhar a crescente importância da análise de dados em todos os setore
   <h3>🗂️ Hard Skills</h3>
     Python, Jupyter Notebook, Numpy, Matplot, Scipy, Tableau, Power BI, SQL, SQL Server e PL/SQL, habilidades em análise estatística e de negócios.
   </p>
-</div>
 
 Indicações:
 ❤️ Comunidade MED Mulheres em Dados - BR
 ❤️ Comunidade Geek Girls - PT
 
+</div>
 ---
 
 <h1 align="left">🎯 Entre em contato ou veja mais em:</h1>
