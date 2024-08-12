@@ -26,7 +26,7 @@
   <h3>❤️ Indicações</h3>
   <p>
     [Comunidade MED Mulheres em Dados - BR:](https://mulheresemdados.com/)
-   
+   + [Projeto - Análise IMDB - MySQL](https://github.com/natalialnb/IMDB_SQL):
     
     [Comunidade Geek Girls - PT:](https://geekgirlsportugal.pt/)
   </p>
