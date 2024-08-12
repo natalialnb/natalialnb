@@ -25,8 +25,8 @@
 
   <h3>❤️ Indicações</h3>
   <p>
-    Comunidade MED Mulheres em Dados - BR <br>
-    Comunidade Geek Girls - PT
+    [Comunidade MED Mulheres em Dados - BR:] (https://mulheresemdados.com/)
+    [Comunidade Geek Girls - PT:] (https://geekgirlsportugal.pt/)
   </p>
 </div>
 
@@ -64,7 +64,7 @@
   
 + [Projeto - Análise IMDB - Python](https://github.com/natalialnb/Python_IMDB):
 
-+ [Projeto - Análise IMDB - PySpark](https://github.com/natalialnb/Mini-Case-PySpark)):
++ [Projeto - Análise IMDB - PySpark](https://github.com/natalialnb/Mini-Case-PySpark):
 
 
 <div align="justify"></a> Curso Preditiva </h2></div>
