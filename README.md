@@ -25,9 +25,10 @@
 
   <h3>❤️ Indicações</h3>
   <p>
-    Comunidade MED Mulheres em Dados - BR: [Site](https://mulheresemdados.com/)
+    [Comunidade MED Mulheres em Dados - BR:](https://mulheresemdados.com/)
+   
     
-    Comunidade Geek Girls - PT: [Site](https://geekgirlsportugal.pt/)
+    [Comunidade Geek Girls - PT:](https://geekgirlsportugal.pt/)
   </p>
 </div>
 
