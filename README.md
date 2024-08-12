@@ -64,6 +64,8 @@
   
 + [Projeto - Análise IMDB - Python](https://github.com/natalialnb/Python_IMDB):
 
++ [Projeto - Análise IMDB - PySpark](https://github.com/natalialnb/Mini-Case-PySpark)):
+
 
 <div align="justify"></a> Curso Preditiva </h2></div>
 
